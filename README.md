@@ -2,6 +2,11 @@
 
 A validation library which build on top of the draft-php library.
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/aight8/draft-php-validator.svg?style=flat-square)](https://packagist.org/packages/aight8/draft-php-validator)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![Build Status](https://img.shields.io/travis/aight8/draft-php-validator.svg?style=flat-square)](https://travis-ci.org/aight8/draft-php-validator)
+[![Total Downloads](https://img.shields.io/packagist/dt/aight8/draft-php-validator.svg?style=flat-square)](https://packagist.org/packages/aight8/draft-php-validator)
+
 This library validates the content state by the given configuration.
 
 Optional: Additionally it can Autofix invalid content states if possible.
