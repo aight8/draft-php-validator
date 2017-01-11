@@ -30,8 +30,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "DraftValidator\\": "spec/",
-      "Draft\\": "../draft-php/src/"
+      "DraftValidator\\": "spec/"
     }
   },
   "scripts": {
