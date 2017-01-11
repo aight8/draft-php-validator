@@ -19,3 +19,6 @@ before_install:
 
 install:
   - travis_retry composer install --prefer-dist
+
+script:
+  - bin/phpspec run;
