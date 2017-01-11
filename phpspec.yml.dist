@@ -1,0 +1,4 @@
+suites:
+    draft:
+        namespace: DraftValidator
+        psr4_prefix: DraftValidator
